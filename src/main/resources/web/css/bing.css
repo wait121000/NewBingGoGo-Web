@@ -6,7 +6,12 @@ body {
     padding: 0;
 }
 
+#nav_gmovs {
+    
+}
+
 #head {
+    margin-top:35px;
     position: fixed;
     top: 0;
     left: 0;
